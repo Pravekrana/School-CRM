@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Chittin",
+      "gender": "Male",
+      "dob": "2005-06-15",
+      "contactDetails": "chttinv89@gmail.com",
+      "feesPaid": true,
+      "classId": null
+    },
+    {
+      "name": "Taneesha Gaur",
+      "gender": "Female",
+      "dob": "2006-08-22",
+      "contactDetails": "tgaur78@gmail.com",
+      "feesPaid": true,
+      "classId": null
+    },
+    {
+        "name": "Jack",
+        "gender": "Male",
+        "dob": "2003-12-22",
+        "contactDetails": "jack898@gmail.com",
+        "feesPaid": false,
+        "classId": null
+    }
+  ]
+  

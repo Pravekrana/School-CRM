@@ -1,0 +1,31 @@
+[
+    {
+      "className": "Mathematics",
+      "year": 2024,
+      "teacherId": null,
+      "studentFees": 500,
+      "studentList": []
+    },
+    {
+      "className": "Physics",
+      "year": 2024,
+      "teacherId": null,
+      "studentFees": 600,
+      "studentList": []
+    },
+    {
+        "className": "Chemistry",
+        "year": 2024,
+        "teacherId": null,
+        "studentFees": 500,
+        "studentList": []
+    },
+    {
+        "className": "English",
+        "year": 2024,
+        "teacherId": null,
+        "studentFees": 700,
+        "studentList": []
+    }
+  ]
+  
